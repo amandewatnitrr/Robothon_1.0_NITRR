@@ -1,5 +1,7 @@
 # Robothon_1.0_NITRR
-An IoT System for Real Time Analysis of Water Quality Index and categorizing there direct feasibility for any Purpose and Anamoly Detection based Machine Learning Algorithm to predict toxicity in Water periodically. 
+An IoT System for Real Time Analysis of Water Quality Index and categorizing there direct feasibility for any Purpose and Anamoly Detection based Machine Learning Algorithm to predict toxicity in Water periodically.
+
+Competition was conducted by Robotix Club National Institute of Technology Raipur, Chhattisgarh, India. Our Team(Team Tetrax) won the hackathon for the domain and got 2nd prize, achieving the runner up position.
 
 #Hardware Part:
 You need to have following sensors to connect and program your microcontroller:
@@ -12,3 +14,4 @@ You need to have following sensors to connect and program your microcontroller:
 Connect the hardware as per the requirments, the rough schematic has been shown in the abstract, compile the .ino file and upload it on the Arduino board.
 
 Run the python Script included that fetches data from comport and store it in seprate variables. Now upload send the values stored in the variables to the backend Firebase using API.
+![Cerification of Achieving 2nd position in Robothon](https://github.com/amandewatnitrr/Robothon_1.0_NITRR/tree/master/Robothon_Final/IMG-20200302-WA0019.jpg?raw=true)
