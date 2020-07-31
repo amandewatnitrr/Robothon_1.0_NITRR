@@ -14,5 +14,5 @@ You need to have following sensors to connect and program your microcontroller:
 Connect the hardware as per the requirments, the rough schematic has been shown in the abstract, compile the .ino file and upload it on the Arduino board.
 
 Run the python Script included that fetches data from comport and store it in seprate variables. Now upload send the values stored in the variables to the backend Firebase using API.
-![Certificate-Runner Up-Robothon](https://github.com/amandewatnitrr/Robothon_1.0_NITRR/blob/master/Robothon_Final/IMG-20200302-WA0019.jpg)
+![Certificate-Runner Up-Robothon](https://github.com/amandewatnitrr/Robothon_1.0_NITRR/blob/master/Robothon_Final/IMG20200411151602.jpg)
 ![Alt](https://github.com/amandewatnitrr/Robothon_1.0_NITRR/blob/master/Robothon_Final/IMG-20200302-WA0019.jpg)
